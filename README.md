@@ -35,7 +35,8 @@ The **HR Analytics Dashboard** is an interactive Power BI solution designed to a
 4. Explore interactive visuals and KPIs  
 
 ## 📸 Dashboard Preview  
-*(Add a screenshot of your dashboard here)*  
+
+![HR Analytics Dashboard Screenshot](https://github.com/Khushi-gupta21/HR_Analytics_Dashboard/blob/main/Overview.png)
 
 ## 📌 Conclusion  
 This dashboard helps organizations gain a deeper understanding of **employee attrition patterns** across departments, empowering HR teams to build strategies that **reduce turnover and improve retention**.  
