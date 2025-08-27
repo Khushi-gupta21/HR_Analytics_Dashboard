@@ -30,13 +30,13 @@ The **HR Analytics Dashboard** is an interactive Power BI solution designed to a
 
 ## 🚀 How to Use  
 1. Clone this repository  
-2. Open the `.pbix` file in **Power BI Desktop**  
+2. Open the `.pbix` file in **Power BI Desktop**  1
 3. Connect to the dataset (CSV/Excel)  
 4. Explore interactive visuals and KPIs  
 
 ## 📸 Dashboard Preview  
 
-![HR Analytics Dashboard Screenshot](https://github.com/Khushi-gupta21/HR_Analytics_Dashboard/blob/Intermediate/Overview.png)
+![HR Analytics Dashboard Screenshot]([https://github.com/Khushi-gupta21/HR_Analytics_Dashboard/blob/Intermediate/ScreenShots/Overview.png](https://github.com/Khushi-gupta21/HR_Analytics_Dashboard/blob/Intermediate/ScreenShots/R&D Department.png))
 
 ## 📌 Conclusion  
 This dashboard helps organizations gain a deeper understanding of **employee attrition patterns** across departments, empowering HR teams to build strategies that **reduce turnover and improve retention**.  
